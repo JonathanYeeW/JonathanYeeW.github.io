@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea6262d5.chunk.css",
-    "main.js": "/static/js/main.7bf5458e.chunk.js",
-    "main.js.map": "/static/js/main.7bf5458e.chunk.js.map",
+    "main.css": "/static/css/main.aec8dd38.chunk.css",
+    "main.js": "/static/js/main.5b89db61.chunk.js",
+    "main.js.map": "/static/js/main.5b89db61.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.c778aea7.chunk.js": "/static/js/2.c778aea7.chunk.js",
-    "static/js/2.c778aea7.chunk.js.map": "/static/js/2.c778aea7.chunk.js.map",
+    "static/js/2.7f6b4ef8.chunk.js": "/static/js/2.7f6b4ef8.chunk.js",
+    "static/js/2.7f6b4ef8.chunk.js.map": "/static/js/2.7f6b4ef8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c4422d73610845ddce323afbf5e87f1c.js": "/precache-manifest.c4422d73610845ddce323afbf5e87f1c.js",
+    "precache-manifest.0e525ef9ee9fa63e94a0027ef80b6ed8.js": "/precache-manifest.0e525ef9ee9fa63e94a0027ef80b6ed8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.ea6262d5.chunk.css.map": "/static/css/main.ea6262d5.chunk.css.map",
+    "static/css/main.aec8dd38.chunk.css.map": "/static/css/main.aec8dd38.chunk.css.map",
     "static/media/Jonathan_Yee_Profile.JPG": "/static/media/Jonathan_Yee_Profile.cbcb30b6.JPG",
     "static/media/LearnUp.png": "/static/media/LearnUp.0ca97316.png",
-    "static/media/datasaas.png": "/static/media/datasaas.ebb492c4.png"
+    "static/media/blockchain_bw.svg": "/static/media/blockchain_bw.7d4411f2.svg",
+    "static/media/blockchain_color.svg": "/static/media/blockchain_color.de034aed.svg",
+    "static/media/datasaas.png": "/static/media/datasaas.ebb492c4.png",
+    "static/media/encryption_bw.svg": "/static/media/encryption_bw.3ca15698.svg",
+    "static/media/encryption_color.svg": "/static/media/encryption_color.b658ab19.svg",
+    "static/media/photo_bw.svg": "/static/media/photo_bw.ed6f05af.svg",
+    "static/media/photo_color.svg": "/static/media/photo_color.d846990a.svg"
   }
 }
